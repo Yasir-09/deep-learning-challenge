@@ -5,12 +5,9 @@ The objective of this challenge is to construct a neural network model that can 
 
 **Results:**
 * The accuracy of the original model was 72.51%. 
-
-*Despite attempts at optimization, no improvement was observed, and the desired target of 75% accuracy could not be attained. The optimization process involved several iterations, including increasing the number of epochs in the first attempt, adding an additional hidden layer in the first attempt, and adjusting the epochs and values of the hidden layer nodes in the attempt.
-
-*Ultimately, three hidden layers were utilized in the optimization process in the second attempt.
-
-*The highest performance achieved during this process was an accuracy of 72.51% and a loss of 55.72.
+* Despite attempts at optimization, no improvement was observed, and the desired target of 75% accuracy could not be attained. The optimization process involved several iterations, including increasing the number of epochs in the first attempt, adding an additional hidden layer in the first attempt, and adjusting the epochs and values of the hidden layer nodes in the attempt.
+* Ultimately, three hidden layers were utilized in the optimization process in the second attempt.
+* The highest performance achieved during this process was an accuracy of 72.51% and a loss of 55.72.
 
 **Summary:**
 Deep learning techniques, using neural networking and machine learning, can be utilized to optimize donations from Alphabet Soup. This is achieved by predicting the success of different applicants for funding. 
